@@ -1,10 +1,13 @@
 body {
-    background; #cccccc;
+    background: #cccccc;
 }
 hi {
     text-align:center
 }
-
-p {
+ {
     text-align:center;
+}
+#missao {
+color:aqua;
+font-size: 18px;
 }
