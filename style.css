@@ -1,8 +1,8 @@
-body {
+.principal {
     background: #cccccc;
 }
 hi {
-    text-align:center
+    text-align:center;
 }
  {
     text-align:center;
@@ -13,4 +13,14 @@ font-size: 18px;
 }
 #banner {
     width: 100%;
+}
+
+.beneficios-titulo {
+text-align: center;
+}
+.itens{
+font-style: italic;
+}
+.beneficios {
+    background-color: white;
 }
