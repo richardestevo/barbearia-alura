@@ -24,3 +24,11 @@ font-style: italic;
 .beneficios {
     background-color: white;
 }
+
+ul {
+display: inline-block;
+width: 20%;
+}
+.beneficios-imagem {
+    width: 50%;
+}
